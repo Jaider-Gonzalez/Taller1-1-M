@@ -6,7 +6,7 @@ package calculadora;
 
 /**
  *
- * @author Estudiante
+ * @author Asus
  */
 public class Operacione {
     private int operando1;
